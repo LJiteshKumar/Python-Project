@@ -1,5 +1,20 @@
-# Python-Project
-Analyzed Amazon sales data to check the buyers preferred choice in the sales.
+# Amazon Sales Data Analysis (Python)
 
-The data analysis reveals that the business has a significant customer base in Maharashtra state, mainly serves retailers, fulfills orders through Amazon, experiences high demand for T-shirts, and sees M-Size as the preferred choice among buyers.
+## 📌 Objective
+Analyze Amazon sales data to understand customer preferences, top-selling products, and sales patterns.
 
+## 🛠 Tools Used
+- Python (pandas, matplotlib, seaborn)
+- Jupyter Notebook
+
+## 📊 Key Insights
+- Maharashtra has the highest customer base
+- Majority of orders come from retailers
+- T-shirts are the most demanded product
+- M-size is the preferred choice among buyers
+
+## 📁 Files Included
+- amazon_sales_eda.ipynb – Python code and EDA process
+  
+- ## 📎 Conclusion
+- The insights can be used for improving product availability, regional targeting, and stock planning.
